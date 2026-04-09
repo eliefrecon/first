@@ -1,13 +1,14 @@
 p, h1 {
     color: black;
     font-family: "Black Ops One", system-ui;
-    font-size: 2em;
+    font-size: 3em;
     /* ceci est un commentaire */
 }
 
 a {
     color: black;
     font-family: "Black Ops One", system-ui;
+    font-size: 2em;
 }
 
 .pro_pass {
